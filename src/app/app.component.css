@@ -1,0 +1,26 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+
+.title {
+    padding: 1rem;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.img {
+    margin: 0 auto;
+    width: 90%;
+    overflow-x: hidden;
+}
+
+.soni {
+    color: rgba(0, 0, 0, 0.63);
+}
+.ank {
+    color: #d9d9d9;
+}
